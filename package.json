@@ -1,0 +1,26 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahimers/reactStarter.git1~.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahimers/reactStarter.git1~/issues"
+  },
+  "homepage": "https://github.com/fahimers/reactStarter.git1~#readme",
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "parcel-bundler": "^1.10.3",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
